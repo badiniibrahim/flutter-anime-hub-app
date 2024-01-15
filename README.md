@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshot
 
-![alt text](1.png)
-![alt text](2.png)
+![alt text](1.jpeg)
+![alt text](2.jpeg)
